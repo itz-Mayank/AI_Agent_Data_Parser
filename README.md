@@ -6,13 +6,7 @@ This project contains a coding agent that automatically generates, tests, and se
 
 The agent operates in a simple, robust loop:
 
-`[ Plan ] -> [ Generate Code ] -> [ Run Tests ] --(Success)--> [ Finish ]`
-`                                      |`
-`                                      |`
-`                                (Failure)`
-`                                      |`
-`                                      V`
-`                             [ Read Error & Fix Code ]`
+`<img width="622" height="201" alt="image" src="https://github.com/user-attachments/assets/86162248-568b-4688-8ebf-ceb1b1115fa3" />`
 
 ## 5-Step Run Instructions
 
@@ -45,7 +39,7 @@ The agent operates in a simple, robust loop:
     The agent will begin the process of writing, testing, and fixing the parser, which will be saved in the `custom_parsers/` directory.
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 /
 ├── agent.py                 # The main AI agent script
