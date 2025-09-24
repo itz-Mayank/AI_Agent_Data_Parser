@@ -58,4 +58,4 @@ The agent operates in a simple, robust loop:
 ---
 
 ## Model Information
-This agent leverages the power and speed of Google's Gemini family of models. The primary model used during development was `gemini-1.5-flash` latest.
+This agent leverages the power and speed of Google's Gemini family of models. The primary model used during development was `gemini-2.5-flash` latest.
