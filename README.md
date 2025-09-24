@@ -6,7 +6,7 @@ This project contains a coding agent that automatically generates, tests, and se
 
 The agent operates in a simple, robust loop:
 
-`<img width="622" height="201" alt="image" src="https://github.com/user-attachments/assets/86162248-568b-4688-8ebf-ceb1b1115fa3" />`
+<img width="622" height="201" alt="image" src="https://github.com/user-attachments/assets/86162248-568b-4688-8ebf-ceb1b1115fa3" />
 
 ## 5-Step Run Instructions
 
